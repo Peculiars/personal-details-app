@@ -15,4 +15,5 @@ To run this project, clone the repository on your device, then go to your folder
 To test this project I assume you already have flutter and SDKs installed.
 
 ## Packages used(flutter)
+Flutter Material package was used to create the User Interface for the project.
 WebView package was used so that the github profile page can open in the webview.
